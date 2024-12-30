@@ -1,4 +1,4 @@
-# Periodic Noise Removing and Noise Reduction in Images Using Fourier Transform
+# Periodic Noise Removal and Noise Reduction in Images Using Fourier Transform
 This project demonstrates the application of Fourier Transform and various notch filtering techniques to reduce periodic noise in an image.
 The code includes Ideal, Butterworth, and Gaussian Notch Filters.
 
