@@ -29,9 +29,18 @@ The notebook `Periodic_Noise_Removal.ipynb` provides the following:
 
 ### Filtered Images
 <p align="center">
-  <img src="images/ideal_notch_filtered_duck_img.png" alt="Ideal Notch Filter" width="200">
-  <img src="images/butterworth_notch_filtered_duck_img.png" alt="Butterworth Notch Filter" width="200">
-  <img src="images/gaussian_notch_filtered_duck_img.png" alt="Gaussian Notch Filter" width="200">
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="images/ideal_notch_filtered_duck_img.png" alt="Ideal Notch Filter" width="200">
+    <figcaption>Ideal Notch Filter</figcaption>
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="images/butterworth_notch_filtered_duck_img.png" alt="Butterworth Notch Filter" width="200">
+    <figcaption>Butterworth Notch Filter</figcaption>
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="images/gaussian_notch_filtered_duck_img.png" alt="Gaussian Notch Filter" width="200">
+    <figcaption>Gaussian Notch Filter</figcaption>
+  </figure>
 </p>
 
 
