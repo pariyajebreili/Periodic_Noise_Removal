@@ -1,5 +1,5 @@
 # Periodic Noise Removal and Noise Reduction in Images Using Fourier Transform
-This project demonstrates the application of Fourier Transform and various notch filtering techniques to reduce periodic noise in an image.
+This code shows the application of Fourier Transform and various notch filtering techniques to reduce periodic noise in an image.
 The code includes Ideal, Butterworth, and Gaussian Notch Filters.
 
 ## Problem Statement
@@ -9,7 +9,7 @@ The input image is contaminated with periodic noise (moire effect). The task is 
 3. Reconstruct the image with minimized noise.
 
 ## Implementation
-The notebook `6.3.ipynb` provides the following:
+The notebook `Periodic_Noise_Removal.ipynb` provides the following:
 - **Filter Classes**:
   - Ideal Notch Filter
   - Butterworth Notch Filter
@@ -22,10 +22,10 @@ The notebook `6.3.ipynb` provides the following:
 
 ## Results
 ### Input
-![Noisy Image]()
+![Noisy Image](images/duck.jpg)
 
 ### Fourier Spectrum
-![Fourier Spectrum]()
+![Fourier Spectrum](images/dft_duck.png)
 
 ### Filtered Images
 - **Ideal Notch Filter**: `ideal_notch_filtered_duck_img.png`
