@@ -22,7 +22,7 @@ The notebook `Periodic_Noise_Removal.ipynb` provides the following:
 
 ## Results
 ### Input
-![Noisy Image](images/duck.jpg)
+<img src="images/duck.jpg" alt="Noisy Image" width="50%">
 
 ### Fourier Spectrum
 ![Fourier Spectrum](images/dft_duck.png)
