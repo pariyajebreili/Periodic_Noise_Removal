@@ -25,7 +25,7 @@ The notebook `Periodic_Noise_Removal.ipynb` provides the following:
 <img src="images/duck.jpg" alt="Noisy Image" width="200">
 
 ### Fourier Spectrum
-![Fourier Spectrum](images/dft_duck.png)
+<img src="images/dft_duck.png" alt="Fourier Spectrum" width="200">
 
 ### Filtered Images
 - **Ideal Notch Filter**: `ideal_notch_filtered_duck_img.png`
