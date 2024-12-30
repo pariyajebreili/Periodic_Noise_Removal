@@ -28,8 +28,10 @@ The notebook `Periodic_Noise_Removal.ipynb` provides the following:
 <img src="images/dft_duck.png" alt="Fourier Spectrum" width="200">
 
 ### Filtered Images
-- **Ideal Notch Filter**: `ideal_notch_filtered_duck_img.png`
-- **Butterworth Notch Filter**: `butterworth_notch_filtered_duck_img.png`
-- **Gaussian Notch Filter**: `gaussian_notch_filtered_duck_img.png`
+<p align="center">
+  <img src="images/ideal_notch_filtered_duck_img.png" alt="Ideal Notch Filter" width="200">
+  <img src="images/butterworth_notch_filtered_duck_img.png" alt="Butterworth Notch Filter" width="200">
+  <img src="images/gaussian_notch_filtered_duck_img.png" alt="Gaussian Notch Filter" width="200">
+</p>
 
 
