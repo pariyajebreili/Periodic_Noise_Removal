@@ -28,19 +28,21 @@ The notebook `Periodic_Noise_Removal.ipynb` provides the following:
 <img src="images/dft_duck.png" alt="Fourier Spectrum" width="200">
 
 ### Filtered Images
-<p align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/ideal_notch_filtered_duck_img.png" alt="Ideal Notch Filter" width="200">
-    <figcaption>Ideal Notch Filter</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/butterworth_notch_filtered_duck_img.png" alt="Butterworth Notch Filter" width="200">
-    <figcaption>Butterworth Notch Filter</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="images/gaussian_notch_filtered_duck_img.png" alt="Gaussian Notch Filter" width="200">
-    <figcaption>Gaussian Notch Filter</figcaption>
-  </figure>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/ideal_notch_filtered_duck_img.png" alt="Ideal Notch Filter" width="200"><br>
+      Ideal Notch Filter
+    </td>
+    <td align="center">
+      <img src="images/butterworth_notch_filtered_duck_img.png" alt="Butterworth Notch Filter" width="200"><br>
+      Butterworth Notch Filter
+    </td>
+    <td align="center">
+      <img src="images/gaussian_notch_filtered_duck_img.png" alt="Gaussian Notch Filter" width="200"><br>
+      Gaussian Notch Filter
+    </td>
+  </tr>
+</table>
 
 
